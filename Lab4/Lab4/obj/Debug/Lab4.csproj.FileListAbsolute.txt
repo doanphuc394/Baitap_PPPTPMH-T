@@ -1,0 +1,9 @@
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Lab4\Lab4\bin\Debug\Lab4.exe.config
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Lab4\Lab4\bin\Debug\Lab4.exe
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Lab4\Lab4\bin\Debug\Lab4.pdb
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Lab4\Lab4\obj\Debug\Lab4.exe
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Lab4\Lab4\obj\Debug\Lab4.pdb
