@@ -1,9 +1,0 @@
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\QuanAnNhanh\QuanAnNhanh\obj\Debug\QuanAnNhanh.csproj.AssemblyReference.cache
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\QuanAnNhanh\QuanAnNhanh\obj\Debug\QuanAnNhanh.Properties.Resources.resources
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\QuanAnNhanh\QuanAnNhanh\obj\Debug\QuanAnNhanh.csproj.GenerateResource.cache
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\QuanAnNhanh\QuanAnNhanh\obj\Debug\QuanAnNhanh.csproj.CoreCompileInputs.cache
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\QuanAnNhanh\QuanAnNhanh\bin\Debug\QuanAnNhanh.exe.config
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\QuanAnNhanh\QuanAnNhanh\bin\Debug\QuanAnNhanh.exe
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\QuanAnNhanh\QuanAnNhanh\bin\Debug\QuanAnNhanh.pdb
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\QuanAnNhanh\QuanAnNhanh\obj\Debug\QuanAnNhanh.exe
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\QuanAnNhanh\QuanAnNhanh\obj\Debug\QuanAnNhanh.pdb

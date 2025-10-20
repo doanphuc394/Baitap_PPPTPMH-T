@@ -1,8 +1,0 @@
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Bai1\Bai1\bin\Debug\Bai1.exe.config
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Bai1\Bai1\bin\Debug\Bai1.exe
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Bai1\Bai1\bin\Debug\Bai1.pdb
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Bai1\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Bai1\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Bai1\Bai1\obj\Debug\Bai1.exe
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Bai1\Bai1\obj\Debug\Bai1.pdb
-D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Bai1\Bai1\bin\Debug\input_array.txt
