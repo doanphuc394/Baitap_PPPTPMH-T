@@ -1,0 +1,11 @@
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Form1\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Form1\Form1\obj\Debug\Form1.Form1.resources
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Form1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Form1\Form1\bin\Debug\Form1.exe.config
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Form1\Form1\bin\Debug\Form1.exe
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Form1\Form1\bin\Debug\Form1.pdb
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Form1\Form1\obj\Debug\Form1.exe
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Form1\Form1\obj\Debug\Form1.pdb
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\Form1\Form1\obj\Debug\QuanAnNhanh.Form1.resources

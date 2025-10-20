@@ -1,0 +1,11 @@
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\LAB6\LAB6\bin\Debug\QuanLyBanSach.mdf
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\LAB6\LAB6\bin\Debug\QuanLyBanSach_log.ldf
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\LAB6\LAB6\bin\Debug\LAB6.exe.config
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\LAB6\LAB6\bin\Debug\LAB6.exe
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\LAB6\LAB6\bin\Debug\LAB6.pdb
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\LAB6\LAB6\obj\Debug\LAB6.csproj.AssemblyReference.cache
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\LAB6\LAB6\obj\Debug\LAB6.Properties.Resources.resources
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\LAB6\LAB6\obj\Debug\LAB6.csproj.GenerateResource.cache
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\LAB6\LAB6\obj\Debug\LAB6.csproj.CoreCompileInputs.cache
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\LAB6\LAB6\obj\Debug\LAB6.exe
+D:\File_word_baitap\PTPMHDT\Lab_thuc_hanh\LAB6\LAB6\obj\Debug\LAB6.pdb
